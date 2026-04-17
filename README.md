@@ -2,6 +2,9 @@
 
 Captures &amp; Analyses live network traffic in real time to detect suspicious activities using rule-based, MITRE-mapped, and machine-learning techniques.
 
+[![Support](https://img.shields.io/badge/Support-Paystack-00C3F7?style=for-the-badge&logo=paypal&logoColor=white)](https://paystack.shop/pay/bd-mutant7)
+
+
 ## 📸 Screenshots
 
 ![screenshot 1](https://github.com/SyedShaheerHussain/Network-Packet-Sniffer-Traffic-Analyse-GUI/blob/adfc26333e9620128a1241615a3514c18f0e089b/network-sniffer/screenshots/Screenshot%20(57).png)
@@ -351,10 +354,7 @@ This project is valuable for:
 >[!important]
 > This software is provided **for educational and research purposes only**. The developer is **not responsible for misuse**.
 
-## 📝 Copyright
 
-© 2026 **Syed Shaheer Hussain**
-All rights reserved.
 
 ## ⭐ Final Note
 
